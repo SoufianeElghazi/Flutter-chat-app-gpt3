@@ -4,7 +4,7 @@
     Flutter Chat Mobile App using GPT-3
   </h1>
 
-![Flutter app Demo](Header.png "Demo")
+![Flutter app Demo](header.png "Demo")
   
 </div>
 
